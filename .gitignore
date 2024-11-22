@@ -1,0 +1,16 @@
+bin/
+obj/
+*.dll
+*.pdb
+
+appsettings.json
+appsettings.Development.json
+
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+packages/
